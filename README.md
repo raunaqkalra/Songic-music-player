@@ -2,7 +2,7 @@
    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a>
 
-# Chillify
+# Songic
 
 A Flutter music app made with Provider and BLoC pattern. (Works on Android for now, iOS coming soon)
 
@@ -10,46 +10,28 @@ Recommended Flutter version: <b>1.7.8+hotfix.3</b>
 
 UI heavily inspired by: https://dribbble.com/shots/6523216-Music-Player-Application/attachments
 
-current app version (apk): https://github.com/KarimElghamry/chillify/releases/tag/v1.0
 
 ## Current Features
-[✓] Retrieve all songs
+1. Retrieve all songs
 
-[✓] Pause
+2. Pause
 
-[✓] Play
+3. Play
 
-[✓] Seek
+4. Seek
 
-[✓] Repeat
+5. Repeat
 
-[✓] Shuffle
+6. Shuffle
 
-[✓] Now Playing
+7. Now Playing
 
-[✓] add to favorites
+8. add to favorites
 
-[✓] Search songs
+9. Search songs
 
-[✓] Albums
+10. Albums
 
-[✓] Well-designed UI
-
-
-## TODO List
-
-᛫ Add foreground notification of "now playing" song with playback controls
-
-᛫ Add SQLite database or alternatives
-
-᛫ Add tabs => Artists and Playlists
-
-᛫ Implement beautiful animations
-
-
-## Screenshots
-
-
-<img src="/first_screen.png" width="250"> <img src="/second_screen.png" width="250"> <img src="/fourth_screen.png" width="250"> <img src="/third_screen.png" width="250"> 
+11. Well-designed UI
 
 
