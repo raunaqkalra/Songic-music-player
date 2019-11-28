@@ -2,15 +2,11 @@
    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a>
 
-# Chillify
+# Songic
 
-A Flutter music app made with Provider and BLoC pattern. (Works on Android for now, iOS coming soon)
+A Flutter music app made with Provider and BLoC pattern.
 
 Recommended Flutter version: <b>1.7.8+hotfix.3</b>
-
-UI heavily inspired by: https://dribbble.com/shots/6523216-Music-Player-Application/attachments
-
-current app version (apk): https://github.com/KarimElghamry/chillify/releases/tag/v1.0
 
 ## Current Features
 [✓] Retrieve all songs
