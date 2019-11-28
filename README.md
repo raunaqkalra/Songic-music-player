@@ -6,6 +6,7 @@
 
 A Flutter music app made with Provider and BLoC pattern.
 
+
 ## Current Features
 1. Retrieve all songs
 
