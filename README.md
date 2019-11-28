@@ -4,12 +4,7 @@
 
 # Songic
 
-A Flutter music app made with Provider and BLoC pattern. (Works on Android for now, iOS coming soon)
-
-Recommended Flutter version: <b>1.7.8+hotfix.3</b>
-
-UI heavily inspired by: https://dribbble.com/shots/6523216-Music-Player-Application/attachments
-
+A Flutter music app made with Provider and BLoC pattern.
 
 ## Current Features
 1. Retrieve all songs
